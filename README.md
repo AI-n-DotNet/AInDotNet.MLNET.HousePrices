@@ -412,3 +412,8 @@ This project is licensed under the MIT License.
 AInDotNet focuses on practical enterprise AI using C#, .NET, ML.NET, Microsoft Azure, SQL Server, and enterprise application architecture.
 
 The goal is to demonstrate how AI capabilities can be incorporated into real business applications rather than treated as isolated demos.
+
+For more on Predictive AI & Forecasting, visit:
+https://aindotnet.com/forecasting/
+
+
