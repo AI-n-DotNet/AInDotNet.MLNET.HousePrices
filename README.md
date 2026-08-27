@@ -32,7 +32,7 @@ Good results usually come from understanding the data, selecting useful features
 
 ---
 
-## What This Lab Matters
+## Why This Lab Matters
 
 The strongest improvement did not come from immediately choosing a more sophisticated algorithm. It came from progressively adding better information to the model. This lab shows why data understanding and feature engineering are central to predictive AI.
 
