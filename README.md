@@ -6,6 +6,8 @@ This project is part of the **AInDotNet Predictive AI Lab Series**. The goal is 
 
 **Profile → Baseline → Hypothesis → Experiment → Compare → Improve**
 
+---
+
 ## What This Lab Teaches
 
 This exercise demonstrates how to:
@@ -27,6 +29,12 @@ This exercise demonstrates how to:
 The larger lesson is that predictive AI is not just about choosing an algorithm.
 
 Good results usually come from understanding the data, selecting useful features, adding business context, measuring changes, and improving the model methodically.
+
+---
+
+## What This Lab Matters
+
+The strongest improvement did not come from immediately choosing a more sophisticated algorithm. It came from progressively adding better information to the model. This lab shows why data understanding and feature engineering are central to predictive AI.
 
 ---
 
