@@ -413,6 +413,10 @@ AInDotNet focuses on practical enterprise AI using C#, .NET, ML.NET, Microsoft A
 
 The goal is to demonstrate how AI capabilities can be incorporated into real business applications rather than treated as isolated demos.
 
+For a write up on this exercise, see:
+Predict House Prices with C# and ML.NET: A Practical Predictive AI Lab
+https://aindotnet.com/2026/08/mlnet-predict-house-prices-csharp/
+
 For more on Predictive AI & Forecasting, visit:
 https://aindotnet.com/forecasting/
 
